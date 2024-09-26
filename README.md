@@ -26,7 +26,7 @@ Test the REST endpoint using a tool like Postman or curl.
 ```
 or you can use swager
 ```bash
-[ http://localhost:8080/h2-console.](http://localhost:8080/swagger-ui/index.html)
+http://localhost:8080/swagger-ui/index.html
 ```
 
 
